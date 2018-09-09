@@ -1,0 +1,16 @@
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\nunit.engine.dll
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\nunit.engine.api.dll
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\Mono.Cecil.dll
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\MorseCodeDecoder.Test.dll
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\MorseCodeDecoder.Test.pdb
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\MorseCodeDecoder.exe
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\nunit.framework.dll
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\MorseCodeDecoder.pdb
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\MorseCodeDecoder.exe.config
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\nunit.framework.pdb
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\bin\Debug\nunit.framework.xml
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\obj\Debug\MorseCodeDecoder.Test.csprojResolveAssemblyReference.cache
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\obj\Debug\MorseCodeDecoder.Test.dll
+C:\Users\Sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder.Test\obj\Debug\MorseCodeDecoder.Test.pdb

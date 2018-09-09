@@ -1,0 +1,6 @@
+c:\users\sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder\bin\Debug\MorseCodeDecoder.exe.config
+c:\users\sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder\bin\Debug\MorseCodeDecoder.exe
+c:\users\sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder\bin\Debug\MorseCodeDecoder.pdb
+c:\users\sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder\obj\Debug\MorseCodeDecoder.csprojResolveAssemblyReference.cache
+c:\users\sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder\obj\Debug\MorseCodeDecoder.exe
+c:\users\sophia\documents\visual studio 2017\Projects\MorseCodeDecoder\MorseCodeDecoder\obj\Debug\MorseCodeDecoder.pdb
